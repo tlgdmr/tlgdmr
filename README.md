@@ -8,7 +8,7 @@ Hello! I'm Tolga, a dynamic game developer with extensive experience in creating
 
 ## Core Skills
 
-- **Programming Languages**: C#, SQL, Python, Java
+- **Programming Languages**: C#, SQL, Python, Java, PHP
 - **Technologies**: Unity 3D/2D, .NET Core, JSON, XML, HTML5, CSS3, Git
 - **Concepts**: OOP, SOLID Principles, Data Analysis, Monetization Strategy
 - **Tools**: Zenject, DOTween, Odin Inspector, Mirror for networked multiplayer games
