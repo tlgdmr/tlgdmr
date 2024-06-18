@@ -19,7 +19,7 @@ Hello! I'm Tolga, a dynamic game developer with extensive experience in creating
 - Developed and enhanced multiple game projects using Unity 3D, focusing on game logic, physics, and user interface elements.
 - Led the implementation of monetization strategies and optimized performance for improved user engagement.
 
-### Junior Developer at Kroppa Digital Agency
+### Software Developer at Kroppa Digital Agency
 - Utilized SQL to manage and analyze large datasets, improving data retrieval processes for business analytics.
 - Developed an automated test system using Python and Selenium, enhancing development workflows.
 
