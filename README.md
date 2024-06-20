@@ -26,7 +26,7 @@ Hello! I'm Tolga, a dynamic game developer with extensive experience in creating
 ## Projects
 
 ### [Shoot Balls Run](https://play.google.com/store/apps/details?id=com.morii.shootballs&hl=en_US)
-Contributed to creating an engaging game experience with dynamic mechanisms and integrated monetization strategies using Unity.
+Played a key role in developing an engaging game experience with dynamic mechanisms and seamlessly integrated client-side in-game purchases using Unity.
 - [Google Play](https://play.google.com/store/apps/details?id=com.morii.shootballs&hl=en_US)
 - [App Store](https://apps.apple.com/us/app/shoot-balls-run/id6467386255)
 
