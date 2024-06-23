@@ -17,7 +17,7 @@ Hello! I'm Tolga, a dynamic game developer with extensive experience in creating
 
 ### Game Developer at Morii Games
 - Developed and enhanced multiple game projects using Unity 3D, focusing on game logic, physics, and user interface elements.
-- Led the implementation of monetization strategies and optimized performance for improved user engagement.
+- Orchestrated critical performance enhancements that elevated gameplay smoothness and deepened user engagement.
 
 ### Software Developer at Kroppa Digital Agency
 - Utilized SQL to manage and analyze large datasets, improving data retrieval processes for business analytics.
