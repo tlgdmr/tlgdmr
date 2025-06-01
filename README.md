@@ -1,6 +1,6 @@
 # Tolga Demir
 
-📍 Poznan, Poland | 📧 [tolgdmr@yahoo.com](mailto:tolgdmr@yahoo.com) | 💼 [LinkedIn](https://www.linkedin.com/in/tolga-demirz1/) | 🎮 [GitHub](https://github.com/tlgdmr)
+📍 Poznan, Poland | 📧 [tolgdmr@yahoo.com](mailto:mrtolgademir@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/mrtolgademir/)
 
 ## About Me
 
@@ -44,6 +44,6 @@ Oct 2020 - May 2024
 
 ## Let's Connect!
 
-I am always open to discussing new projects or potential collaborations. Feel free to reach out to me [here on GitHub](https://github.com/tlgdmr) or via [email](mailto:tolgdmr@yahoo.com).
+I am always open to discussing new projects or potential collaborations. Feel free to reach out to me [here on GitHub](https://github.com/tlgdmr) or via [email](mailto:mrtolgademir@gmail.com).
 
 Thank you for visiting my GitHub profile!
