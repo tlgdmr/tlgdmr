@@ -4,7 +4,13 @@
 
 ## About Me
 
-Hello! I'm Tolga, a dynamic game developer with extensive experience in creating engaging and successful games. With a strong background in both Unity 3D and data management, I'm passionate about using my skills to develop innovative game mechanics and enrich user experiences. I thrive in challenging environments that push the boundaries of technology and creativity, aiming to continuously improve and drive forward the projects I'm involved with.
+Software Engineer with a strong background in game development and data analysis.
+
+🎮 Specializing in Unity and C# to build scalable, high-performance game systems using advanced design patterns and clean architecture
+
+📊 Leveraging SQL to transform complex datasets into actionable business insights through comprehensive analysis and clear reporting
+
+Always focused on writing clean, efficient code and optimizing performance to deliver exceptional user experiences.
 
 ## Core Skills
 
