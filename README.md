@@ -1,6 +1,6 @@
 # Tolga Demir
 
-📍 Poznan, Poland | 📧 [tolgdmr@yahoo.com](mailto:mrtolgademir@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/mrtolgademir/)
+📍 Poznan, Poland | 📧 [mrtolgademir@gmail.com](mailto:mrtolgademir@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/mrtolgademir/)
 
 ## About Me
 
