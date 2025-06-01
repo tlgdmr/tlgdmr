@@ -14,10 +14,11 @@ Always focused on writing clean, efficient code and optimizing performance to de
 
 ## Core Skills
 
-- **Programming Languages**: C#, SQL, Python, Java, PHP
-- **Technologies**: Unity 3D/2D, .NET Core, JSON, XML, HTML5, CSS3, Git
-- **Concepts**: OOP, SOLID Principles, Data Analysis, Monetization Strategy
-- **Tools**: Zenject, DOTween, Odin Inspector, Mirror for networked multiplayer games
+* **Programming Languages**: C#, SQL, PL/SQL
+* **Technologies**: Unity 3D/2D, .NET Core, Zenject, DOTween, JSON/XML, Git
+* **Game Development**: Mobile Game Development, Game Architecture & System Design, Gameplay Programming, Performance Optimization
+* **Core Concepts**: OOP & Design Patterns, SOLID Principles, Algorithm Design, Data Analysis & Reporting
+* **Additional Skills**: Debugging & Profiling, Technical Documentation, Code Architecture & Refactoring
 
 ## Professional Experience
 
