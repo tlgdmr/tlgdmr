@@ -37,8 +37,8 @@ Always focused on writing clean, efficient code and optimizing performance to de
 
 ### Fill The Spaces
 Developed a mobile puzzle game with focus on performance and designer-friendly tools. Applied performance enhancements using object pooling and mesh merging techniques. Built automated level creation system and implemented soft-body physics for dynamic visual feedback.
-- [Google Play](https://play.google.com/store/apps/details?id=com.hypercasual.fillthespaces)
-- [App Store](https://apps.apple.com/app/fill-the-spaces/id6467386256)
+- [Google Play](https://play.google.com/store/apps/details?id=com.play.fillspace&hl=en)
+- [App Store](https://apps.apple.com/us/app/fill-the-spaces/id6741154550?ct=Tap33803252)
 
 ### Shoot Balls Run
 Developed core gameplay systems for a mobile runner game using Zenject dependency injection framework. Built advanced physics-based features and implemented performance optimization through object pooling and custom particle effects.
@@ -54,6 +54,6 @@ Oct 2020 - May 2024
 
 ## Let's Connect!
 
-I am always open to discussing new projects or potential collaborations. Feel free to reach out to me [here on GitHub](https://github.com/tlgdmr) or via [email](mailto:mrtolgademir@gmail.com).
+I am always open to discussing new projects or potential collaborations. Feel free to reach out to me via [email](mailto:mrtolgademir@gmail.com).
 
 Thank you for visiting my GitHub profile!
