@@ -23,24 +23,27 @@ Always focused on writing clean, efficient code and optimizing performance to de
 ## Professional Experience
 
 ### Game Developer at Morii Games
-- Developed and enhanced multiple game projects using Unity 3D, focusing on game logic, physics, and user interface elements.
-- Orchestrated critical performance enhancements that elevated gameplay smoothness and deepened user engagement.
+- Designed and developed core systems for various game titles across different genres including runner and puzzle games
+- Built flexible and scalable architectures using dependency injection frameworks like Zenject, following SOLID design principles
+- Developed complex gameplay features including state machines and event-driven systems while maintaining clean, organized code
 
-### Software Developer at Kroppa Digital Agency
-- Utilized SQL to manage and analyze large datasets, improving data retrieval processes for business analytics.
-- Developed an automated test system using Python and Selenium, enhancing development workflows.
+### Data Analyst at Kroppa Digital Agency
+- Collaborated with internal teams and clients to gather, analyze, and present data supporting better decision-making
+- Used SQL to extract information from databases, transforming raw data into clear, actionable reports
+- Built and maintained weekly and monthly Excel dashboards highlighting key metrics and trends
+- Delivered custom data insights tailored to specific business questions, improving reporting speed and clarity
 
 ## Projects
 
-### [Shoot Balls Run](https://play.google.com/store/apps/details?id=com.morii.shootballs&hl=en_US)
-Played a key role in developing an engaging game experience with dynamic mechanisms and seamlessly integrated client-side in-game purchases using Unity.
+### Fill The Spaces
+Developed a mobile puzzle game with focus on performance and designer-friendly tools. Applied performance enhancements using object pooling and mesh merging techniques. Built automated level creation system and implemented soft-body physics for dynamic visual feedback.
+- [Google Play](https://play.google.com/store/apps/details?id=com.hypercasual.fillthespaces)
+- [App Store](https://apps.apple.com/app/fill-the-spaces/id6467386256)
+
+### Shoot Balls Run
+Developed core gameplay systems for a mobile runner game using Zenject dependency injection framework. Built advanced physics-based features and implemented performance optimization through object pooling and custom particle effects.
 - [Google Play](https://play.google.com/store/apps/details?id=com.morii.shootballs&hl=en_US)
 - [App Store](https://apps.apple.com/us/app/shoot-balls-run/id6467386255)
-
-### [Control Car Run](https://play.google.com/store/apps/details?id=com.game.controlcars&hl=en_US)
-Led the development of incremental gameplay enhancements, focusing on player interaction and progression systems in Unity.
-- [Google Play](https://play.google.com/store/apps/details?id=com.game.controlcars&hl=en_US)
-- [App Store](https://apps.apple.com/us/app/control-car-run/id6469337510)
 
 ## Education
 
